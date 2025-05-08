@@ -6,9 +6,9 @@ Password Manager
 """
 #### ---- SETUP ---- ####
 
-passwords = ["xnoMy$X", "d0ghater98", "bownu.m12", "g1an78"]
+passwords = ["xnoMy$X", "d0ghat98", "bownu.m12", "g1an78"]
 
-# Show user their passwords
+# Show user their passwords 
 
 print("Here are your saved passwords: ")
 for password in passwords:
